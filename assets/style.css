@@ -28,10 +28,11 @@ main {
 }
 main h1 {
   margin-bottom: 3rem;
-  font-weight: 300;
-  font-size: 1.2rem;
+  font-weight: 900;
+  font-size: 1.6rem;
   color: hsl(150deg, 100%, 66%);
   text-transform: uppercase;
+  letter-spacing: 0.3rem;
 }
 main p {
   margin-bottom: 3rem;
