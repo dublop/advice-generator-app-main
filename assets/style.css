@@ -49,7 +49,7 @@ main .divider {
   background-repeat: no-repeat;
 }
 main .icon {
-  transform: translate(100px, 25px);
+  transform: translate(100px, 100%);
   transition: box-shadow 0.15s;
   display: grid;
   place-items: center;
@@ -74,7 +74,7 @@ main .icon:hover {
     max-height: 50rem;
   }
   main .icon {
-    transform: translate(200px, 60px);
+    transform: translate(200px, 100%);
     width: 6rem;
     height: 6rem;
     border-radius: 100%;
